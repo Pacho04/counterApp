@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.0faff425.chunk.css",
-    "main.js": "/static/js/main.aead32dc.chunk.js",
-    "main.js.map": "/static/js/main.aead32dc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a50afc49.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a50afc49.js.map",
-    "static/js/2.87faeb51.chunk.js": "/static/js/2.87faeb51.chunk.js",
-    "static/js/2.87faeb51.chunk.js.map": "/static/js/2.87faeb51.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1f4f9d98a255e68836ca3e3e1cbefd78.js": "/precache-manifest.1f4f9d98a255e68836ca3e3e1cbefd78.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0faff425.chunk.css.map": "/static/css/main.0faff425.chunk.css.map",
-    "static/js/2.87faeb51.chunk.js.LICENSE.txt": "/static/js/2.87faeb51.chunk.js.LICENSE.txt"
+    "main.css": "/counterApp/static/css/main.0faff425.chunk.css",
+    "main.js": "/counterApp/static/js/main.aead32dc.chunk.js",
+    "main.js.map": "/counterApp/static/js/main.aead32dc.chunk.js.map",
+    "runtime-main.js": "/counterApp/static/js/runtime-main.1f18d933.js",
+    "runtime-main.js.map": "/counterApp/static/js/runtime-main.1f18d933.js.map",
+    "static/js/2.87faeb51.chunk.js": "/counterApp/static/js/2.87faeb51.chunk.js",
+    "static/js/2.87faeb51.chunk.js.map": "/counterApp/static/js/2.87faeb51.chunk.js.map",
+    "index.html": "/counterApp/index.html",
+    "precache-manifest.c69d4d4ef0734c0b2f98902393923d6c.js": "/counterApp/precache-manifest.c69d4d4ef0734c0b2f98902393923d6c.js",
+    "service-worker.js": "/counterApp/service-worker.js",
+    "static/css/main.0faff425.chunk.css.map": "/counterApp/static/css/main.0faff425.chunk.css.map",
+    "static/js/2.87faeb51.chunk.js.LICENSE.txt": "/counterApp/static/js/2.87faeb51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a50afc49.js",
+    "static/js/runtime-main.1f18d933.js",
     "static/js/2.87faeb51.chunk.js",
     "static/css/main.0faff425.chunk.css",
     "static/js/main.aead32dc.chunk.js"
